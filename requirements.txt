@@ -22,3 +22,6 @@ tensorboardx
 sharedarray
 torch-geometric
 yourdfpy==0.0.56
+fastapi
+pydantic
+uvicorn
